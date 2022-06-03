@@ -1,1 +1,1 @@
-# RPG-MV-Translator
+# RPG MV Translator
