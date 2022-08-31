@@ -1,6 +1,6 @@
 # RPG MV Translator
 
-[Скриншот](https://pair.casualmods.net/images/RPGMVTrans.jpg)
+![Скриншот](https://pair.casualmods.net/images/RPGMVTrans.jpg)
 
 Описание у меня на [сайте](https://pair.casualmods.net/rpg-maker-mv-translator).
 
